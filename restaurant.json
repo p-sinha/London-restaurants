@@ -1,0 +1,26 @@
+{  
+   "data":[  
+      {  
+         "id":1,
+         "restaurant":"Amaya",
+         "cuisine":"Pan Asian",
+         "stars":"1 star",
+         "price":50,
+         "address":"Motcomb Street, Knightsbridge",
+         "headChef":"Namita Punjabi",
+         "headChefImg":"https://b70f084e29f3f8faffb0-389fffc5b90936635d166a32fdb11b6a.ssl.cf3.rackcdn.com/andy-hayler-veeraswamy-head-chef-uday-salunkhe-w709-h532.jpg",
+         "foodImg":"http://www.amaya.biz/media/da213b11-fd0c-49f3-b319-67d956fea829/food_drink/a_FO_ribs_0163_750_jpg"
+      },
+      {  
+         "id":2,
+         "restaurant":"Dinner",
+         "cuisine":"British",
+         "stars":"2 star",
+         "price":80,
+         "address":"Mandarin Oriental Hype Park",
+         "headChef":"Heston Blumenthal",
+         "headchefImg":"https://b70f084e29f3f8faffb0-389fffc5b90936635d166a32fdb11b6a.ssl.cf3.rackcdn.com/andy-hayler-veeraswamy-head-chef-uday-salunkhe-w709-h532.jpg",
+         "foodImg":"http://www.amaya.biz/media/da213b11-fd0c-49f3-b319-67d956fea829/food_drink/a_FO_ribs_0163_750_jpg"
+      }
+   ]
+}
