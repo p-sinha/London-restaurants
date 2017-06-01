@@ -10,7 +10,7 @@
          "headChef":"Ashley Palmer-Watts",
          "headChefImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/dinnerhc.jpg",
          "resImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/dinnerres.jpg",
-         "mapImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/mapdinner.JPG",
+         "mapImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/mapdinner.JPG"
       },
       {  
          "id":2,
@@ -22,7 +22,7 @@
          "headChef":"Helene Darroze",
          "headchefImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/hdhc.jpg",
          "resImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/hdres.jpg",        
-         "mapImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/maphd.JPG",
-      },
+         "mapImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/maphd.JPG"
+      }
    ]
 }
