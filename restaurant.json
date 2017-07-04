@@ -44,12 +44,12 @@
           "id":3,
           "restaurant":"Helene Darroze at The Connaught",
           "cuisine":"French",
-          "stars":"2 Stars",       
-          "price":120,    
+          "stars":"2 Stars",
+          "price":120,
           "address":"Carlos Place, Mayfair W1K 2AL",
           "headChef":"Helene Darroze",
           "headChefImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/hdhc3.jpg",
-          "resImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/hdres1.jpg", 
+          "resImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/hdres1.jpg",
           "mapImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/hdmap.JPG"
        },
       
