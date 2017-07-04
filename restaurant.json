@@ -97,11 +97,11 @@
           "restaurant":"Marcus at the Berkeley",
          "cuisine":"Contemporary British",
          "stars":"2 Stars",
-         "price": 85,   
+         "price": 85,
          "address":"Wilton place, SW1X 7RL",
          "headChef":"Marcus Wareing",
          "headChefImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/Marhc.jpg",
-         "resImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/marres.jpg",  
+         "resImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/marres.jpg",
          "mapImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/marmap.jpg"
         },
       
@@ -109,10 +109,10 @@
          "id":8,
          "restaurant":"UMU",
          "cuisine":"Japanese",
-         "stars":"1 Star",  
-         "price": 95, 
+         "stars":"1 Star",
+         "price": 95,
          "address":"14 Bruton Pl, W1J 6LX",
-         "headChef":"Yoshinori Ishii", 
+         "headChef":"Yoshinori Ishii",
          "headChefImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/umuhc.jpg",
          "resImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/umures.jpg",
          "mapImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/umumap.jpg"
