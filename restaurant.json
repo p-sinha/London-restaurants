@@ -2,14 +2,14 @@
    "data":[  
            {
              "id":0,           
-             "restaurant":"Alain Ducasse at Dorchester",          
+             "restaurant":"Alain Ducasse at Dorchester",
              "cuisine":"French",
              "stars":"3 Star",
-             "price":125,    
+             "price":125,
              "address":"53 Park Lane, W1K 1QA",
              "headChef":"Alain Ducasse",
              "headChefImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/adhc.jpg",
-              "resImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/adres.jpg", 
+              "resImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/adres.jpg",
               "mapImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/admap.jpg"
            },
            
