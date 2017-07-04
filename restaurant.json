@@ -56,13 +56,13 @@
        {
           "id":4,
           "restaurant":"Le Gavroche",
-          "cuisine":"Classic French",   
+          "cuisine":"Classic French",
           "stars":"3 Stars",
-          "price":67,  
+          "price":67,
           "address":"43 Upper Brook Street, W1K 7QR",
           "headChef":"Michel Roux Jr",
           "headChefImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/lgjhc.jpg",
-          "resImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/Lgres.jpg",  
+          "resImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/Lgres.jpg",
           "mapImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/lgmap.jpg"
        },
       
