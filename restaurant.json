@@ -18,7 +18,7 @@
             "restaurant":"Benares",
             "cuisine":"Modern Indian",
             "stars":"1 Star",
-            "price":45,    
+            "price":45,
             "address":"Berkley Square, Mayfair, W1J 6BS",
             "headChef":"Atul Kochhar",
             "headChefImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/bhc.jpg",
@@ -30,7 +30,7 @@
         {
            "id":2,
            "restaurant":"Hakkasan",
-           "cuisine":"Cantonese",    
+           "cuisine":"Cantonese",
            "stars":"1 Star",
            "price":55,
            "address":"17 Bruton Street, W1 6QB",
