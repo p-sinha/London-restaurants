@@ -76,7 +76,7 @@
           "headChef":"Ashley Palmer-Watts",
           "headChefImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/dinnerhc2.jpg",
           "resImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/dinnerres1.jpg",
-          "mapImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/mapdinner.JPG"
+          "video":"https://www.youtube.com/embed/V3bJDYI5oV0?ecver=2"
        },
       
         {
@@ -89,7 +89,7 @@
            "headChef":"Arnaud Bignon",
            "headChefImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/greenhc.jpg",
            "resImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/greenres.jpg",
-           "mapImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/greenmap.jpg"
+           "video":"https://www.youtube.com/embed/W4etTESZykc?ecver=2" 
         },
          
       {
@@ -102,7 +102,7 @@
          "headChef":"Marcus Wareing",
          "headChefImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/Marhc.jpg",
          "resImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/marres.jpg",
-         "mapImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/marmap.jpg"
+         "video":"https://www.youtube.com/embed/mDuRDk8aE34?ecver=2"
         },
       
       {
@@ -115,7 +115,7 @@
          "headChef":"Yoshinori Ishii",
          "headChefImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/umuhc.jpg",
          "resImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/umures.jpg",
-         "mapImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/umumap.jpg"
+         "video":"https://www.youtube.com/embed/u4PWenVTwvM?ecver=2"
       }
    ]
 }
