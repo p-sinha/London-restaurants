@@ -68,11 +68,11 @@
       
        {
           "id":5,
-          "restaurant":"Dinner by Heston Blumenthal",
+          "restaurant":"Dinner-Heston Blumenthal",
           "cuisine":"Modern British Gastronomy",
           "stars":"2 Stars",
           "price": 95,
-          "address":"66 Knightsbridge, SW1X 7LA",
+          "address":"66 Knightsbridge, SW1X7LA",
           "headChef":"Ashley Palmer-Watts",
           "headChefImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/dinnerhc2.jpg",
           "resImg":"https://raw.githubusercontent.com/p-sinha/London-restaurants/master/img/dinnerres1.jpg",
